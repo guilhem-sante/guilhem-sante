@@ -16,3 +16,8 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "feat: automatically update credly badges"
+          CREDLY_USER: guilhem-sante
+          CREDLY_SORT: RECENT
