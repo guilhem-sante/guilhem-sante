@@ -10,7 +10,7 @@ I'm drawn to Cloud Computing because it provides me with a deeper understanding 
 
 As for Machine Learning, beyond its increasing hype, it presents an intriguing avenue for many unexplored projects.  
 
-On the coding front, I'm dedicated to mastering efficient development in Go and Rust. Coding has allowed me to create projects for enjoyment, and I aspire to produce something as impactful as the works of [Sebastian Lague](https://www.youtube.com/SebastianLague), [CodeParade](https://www.youtube.com/CodeParade), [Pezzza's Work](https://www.youtube.com/PezzzasWork), or [Inigo Quilez](https://www.youtube.com/InigoQuilez).
+On the coding front, I'm dedicated to mastering efficient development in Go and Rust. Coding has allowed me to create projects for enjoyment, and I aspire to produce something as cool as the works of [Sebastian Lague](https://www.youtube.com/SebastianLague), [CodeParade](https://www.youtube.com/CodeParade), [Pezzza's Work](https://www.youtube.com/PezzzasWork), or [Inigo Quilez](https://www.youtube.com/InigoQuilez).
 
 #### My Badges
 
