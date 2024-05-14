@@ -13,7 +13,7 @@ As for Machine Learning, beyond its increasing hype, it presents an intriguing a
 On the coding front, I'm dedicated to mastering efficient development in Go and Rust. Coding has allowed me to create projects for enjoyment, and I aspire to produce something as cool as the works of [Sebastian Lague](https://www.youtube.com/SebastianLague), [CodeParade](https://www.youtube.com/CodeParade), [Pezzza's Work](https://www.youtube.com/PezzzasWork), or [Inigo Quilez](https://www.youtube.com/InigoQuilez).
 
 #### My Badges
-*they're more here for me than anything else to be honest*
+*They're more here for me than anything else, to be honest.*
 
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/fcdf7b19-864a-4099-94cf-e4dc31e1d2c3 "AWS Certified Cloud Practitioner")
