@@ -4,9 +4,6 @@
 name: Update badges
 
 on:
-  schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
