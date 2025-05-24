@@ -1,20 +1,23 @@
+---
 # Thanks Pedro Matias de Araujo
 # https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a
-
 name: Update badges
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: Update Badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: "feat: automatically update credly badges"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "chore(badges): README.md automated update"
           CREDLY_USER: guilhem-sante
           CREDLY_SORT: POPULAR
